@@ -1,0 +1,37 @@
+_repo: Carry-On--A-Story-of-the-Fight-for-Bagdad_38714
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Elcock, H. K. (Howard K.)
+    alias: Elcock, Howard K.
+    gutenberg_agent_id: '42952'
+    url: http://www.gutenberg.org/2009/agents/42952
+  - agent_name: Evison, H.
+    gutenberg_agent_id: '35392'
+    url: http://www.gutenberg.org/2009/agents/35392
+covers:
+- cover_type: archival
+  image_path: 38714-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2012-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Iraq -- Juvenile fiction'
+- !lcc 'PZ'
+title: Carry On! A Story of the Fight for Bagdad
+url: http://www.gutenberg.org/ebooks/38714
